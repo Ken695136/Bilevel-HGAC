@@ -1,0 +1,4 @@
+from model.MAGNN_nc import MAGNN_nc_AC
+from model.MAGNN_nc_mb_high import MAGNN_nc_mb_AC
+from model.MAGNN_nc_nonlocal import MAGNN_nc_AC_nonlocal
+from model.MAGNN_nc_mb_nonlocal import MAGNN_nc_mb_AC_nonlocal
